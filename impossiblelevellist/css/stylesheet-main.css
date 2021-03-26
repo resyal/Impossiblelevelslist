@@ -1,0 +1,198 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  color: white !important;
+}
+body {
+  background-image: url(https://cdn.discordapp.com/attachments/824806962578456586/824839279045247006/img.jpg);
+}
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+
+}
+
+.tac {
+  text-align: center;
+}
+
+
+.opa {
+  opacity: 50%;
+}
+
+#sitename{
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  font-size: 2em;
+}
+
+#pc-link{
+  position: fixed;
+  text-align: right;
+  top: 35px;
+  right: 30px;
+  font-size: 1.3em;
+}
+#list{
+  
+  position: fixed; 
+  top: 100px;
+  left: 0;
+  width: 30%;
+  overflow:auto;
+}
+
+#additional-information{
+  
+   position: fixed;
+  top: 100px;
+  right: 0;
+  width: 30%; 
+   overflow-y: auto; 
+}
+#info{
+  
+  position: fixed;
+  top: 100px;
+  left: 30%;
+  width: 40%;
+  overflow-y: auto;
+}
+#inner-info, #inner-right-info{
+  padding: 1em;
+}
+.entry{
+  padding: 1em;
+}
+.entry:hover {
+  border: rgb(115, 169, 255) solid 4px;
+  cursor:default;
+}
+
+A:hover {color:rgb(0, 0, 0) !important; text-decoration:none; }
+
+.selected{
+  opacity: 75%;
+}
+.author{
+  font-weight: bold;
+}
+#fname{
+  font-size: 1.7em;
+  font-weight: bold;
+
+}
+#levelauthor{
+  font-size: 1.1em;
+}
+#leveldescription{
+  font-size: 0.8em;
+  font-variant: small-caps;
+
+}
+.vid{
+  width: 560px;
+}
+#records{
+  width: 100%;
+}
+#records-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#records-table{
+  width: 100%;
+}
+#explanation-simple-title{
+  font-size: 1.5em;
+  font-weight: bold;
+  color: black;
+}
+#explanation-simple{
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+}
+.interentry{
+  width: 100%;
+  padding: 0.5em;
+}
+/* .record-entry:nth-child(even){
+  background: url(https://www.mediafire.com/convkey/ab20/yp3pc92jpaev9oszg.jpg) 
+}
+.record-entry:nth-child(odd){
+    background: url(https://www.mediafire.com/convkey/ab20/yp3pc92jpaev9oszg.jpg) 
+}*/
+#block{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  color: black;
+  font-size: 3em;
+}
+.hacked{
+  background: rgb(0, 64, 255);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.4em;
+  border-radius: 1em;
+}
+.p-hacked{
+  background: rgb(151, 191, 255);
+  color: white;
+  font-weight: strong;
+  font-size: 0.4em;
+  padding: 0.4em;
+  border-radius: 1em;
+}
+#hi{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99;
+}
+#user-rank {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.li2 {
+  margin-bottom: 10px;
+}
+.hd1 {
+  size: 75px;
+}
+Swal {
+  color: black;
+}
+/* scroll bar [DO NOT MODIFY] */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+ /* Track */
+/* ::-webkit-scrollbar-track {
+  background: url(https://www.mediafire.com/convkey/ab20/yp3pc92jpaev9oszg.jpg)
+} */
+ 
+/* Handle */
+/*::-webkit-scrollbar-thumb {
+  background: url(https://www.mediafire.com/convkey/ab20/yp3pc92jpaev9oszg.jpg)
+} */
+
+/* Handle on hover */
+/*::-webkit-scrollbar-thumb:hover {
+  background: url(https://www.mediafire.com/convkey/ab20/yp3pc92jpaev9oszg.jpg)
+} */
