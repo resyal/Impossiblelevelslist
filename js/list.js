@@ -5,19 +5,19 @@ const d = {
         {
             "vids": [
                 {
-                    "user": "",
-                    "link": "",
-                    "percent": "n/a",
-                    "hz": "1000FPS"
+                    "user": "RpgRakketi",
+                    "link": "https://youtu.be/RrI_YY90UvQ",
+                    "percent": "100",
+                    "hz": "60 FPS"
                 },
             ],
-            "name": "Wistfully",
-            "author": "xViola",
-            "more": "KrXyt",
-            "id": 67344125,
-            "pass": "557774",
+            "name": "Bloodclot",
+            "author": "Sea1997",
+            "more": "",
+            "id": "joe mama",
+            "pass": "",
             "percentToQualify": "5",
-            "verificationVid": "https://youtu.be/a4uVJWF-it4",
+            "verificationVid": "https://youtu.be/SMZuZE-5EZ8",
             "key": 0
         },
 
